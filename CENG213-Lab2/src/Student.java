@@ -18,17 +18,17 @@ public class Student{
 		
 	}
 	
-	public boolean checkCourse() {
+	//public boolean checkCourse() {
 		
-	}
+	//}
 	
 	public void setCourseGrade() {
 		
 	}
 	
-	public double getGDA() {
+	//public double getGDA() {
 		
-	}
+	//}
 	
 	// GETTERS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	public String getStudent_number() {
